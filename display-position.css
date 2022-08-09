@@ -1,0 +1,18 @@
+nav {
+    position: absolute;
+    right: 0;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+header,
+footer,
+aside,
+section,
+nav {
+    padding: 10px;
+}
